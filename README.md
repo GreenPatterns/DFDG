@@ -1,4 +1,4 @@
-# DFDG: Federated GNN Learning for Traffic Forcasting. 
+# DFDG: Federated GNN Learning for Traffic Forcasting by Muhammad Usman
 
 # Datasets
 1. MetrLA : A traffic forecasting dataset based on Los Angeles
@@ -9,6 +9,13 @@
 
     For further details on the version of the sensor network and
     discretization see: `"Diffusion Convolutional Recurrent Neural Network:
-    Data-Driven Traffic Forecasting" <https://arxiv.org/abs/1707.01926>`
+    Data-Driven Traffic Forecasting" (https://arxiv.org/abs/1707.01926)`
    
-3. PEMS-BAYe
+2. PEMS-BAY: This traffic dataset is collected by California Transportation Agencies (CalTrans)
+    Performance Measurement System (PeMS). It is represented by a network of 325 traffic sensors
+    in the Bay Area with 6 months of traffic readings ranging from Jan 1st 2017 to May 31th 2017
+    in 5 minute intervals.
+
+    For details see: `"Diffusion Convolutional Recurrent Neural Network:
+    Data-Driven Traffic Forecasting" (https://arxiv.org/abs/1707.01926)`_
+    """
