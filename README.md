@@ -1,5 +1,4 @@
-# DFDG
-Federated GNN Learning
+# DFDG: Federated GNN Learning for Traffic Forcasting. 
 
 # Datasets
 1. MetrLA : A traffic forecasting dataset based on Los Angeles
@@ -12,4 +11,4 @@ Federated GNN Learning
     discretization see: `"Diffusion Convolutional Recurrent Neural Network:
     Data-Driven Traffic Forecasting" <https://arxiv.org/abs/1707.01926>`
    
-3. PEMS-BAY
+3. PEMS-BAYe
