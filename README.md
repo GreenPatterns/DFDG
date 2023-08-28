@@ -1,4 +1,5 @@
-# DFDG: Federated GNN Learning for Traffic Forcasting by Muhammad Usman
+# DFDG: Federated GNN Learning for Traffic Forcasting 
+by Muhammad Usman
 
 # Datasets
 1. MetrLA : A traffic forecasting dataset based on Los Angeles
