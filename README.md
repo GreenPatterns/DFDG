@@ -20,3 +20,5 @@ by Muhammad Usman
     For details see: `"Diffusion Convolutional Recurrent Neural Network:
     Data-Driven Traffic Forecasting" (https://arxiv.org/abs/1707.01926)`_
     """
+# What is new in the repo
+The repository is updated based on all the given tasks in assignment 2. 
