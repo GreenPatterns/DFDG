@@ -50,7 +50,7 @@ graph applications
 -  python3.9
 -  numpy, scipy, pandas, matplotlib, seaborn, cuda 11
 
-# Results
+# Performance Results
 ![image](https://github.com/GreenPatterns/DFDG/assets/15605985/204d7178-c349-4b9b-b07b-8b150f2e1f31)
 
 ![image](https://github.com/GreenPatterns/DFDG/assets/15605985/d3db0642-70a5-4120-a4ab-3563ad667579)
