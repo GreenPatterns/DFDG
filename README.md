@@ -32,5 +32,7 @@ by Muhammad Usman
 
 ![image](https://github.com/GreenPatterns/DFDG/assets/15605985/d3db0642-70a5-4120-a4ab-3563ad667579)
 
+
+
 # What is new in the repo
 The repository is updated based on all the given tasks in assignment 2. 
