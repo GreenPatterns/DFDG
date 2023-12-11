@@ -1,4 +1,4 @@
-# DFDG: Federated GNN Learning for Traffic Forcasting 
+![image](https://github.com/GreenPatterns/DFDG/assets/15605985/7c7b93e4-30ed-461f-bcbc-3557a4e97259)# DFDG: Federated GNN Learning for Traffic Forcasting 
 by Muhammad Usman
 
 # Datasets
@@ -32,7 +32,7 @@ by Muhammad Usman
 
 ![image](https://github.com/GreenPatterns/DFDG/assets/15605985/d3db0642-70a5-4120-a4ab-3563ad667579)
 
+# Forecasted Results
+![image](https://github.com/GreenPatterns/DFDG/assets/15605985/c51f6046-5a36-4d4c-aa01-e52c34a5307b)
 
 
-# What is new in the repo
-The repository is updated based on all the given tasks in assignment 2. 
