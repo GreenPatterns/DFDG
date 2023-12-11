@@ -1,4 +1,4 @@
-![image](https://github.com/GreenPatterns/DFDG/assets/15605985/7c7b93e4-30ed-461f-bcbc-3557a4e97259)# DFDG: Federated GNN Learning for Traffic Forcasting 
+# DFDG: Federated GNN Learning for Traffic Forcasting 
 by Muhammad Usman
 
 # Datasets
