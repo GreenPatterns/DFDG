@@ -1,6 +1,32 @@
 # DFDG: Federated GNN Learning for Traffic Forcasting 
 by Muhammad Usman
 
+DFDG is introduced as a pioneering fusion of
+federated graph neural networks (GNNs) with dynamic graphs
+and unsupervised learning for dynamic traffic forecasting in
+urban settings. Utilizing self-organizing map clustering, speed
+patterns are clustered at various time intervals, and resulting
+clusters are assigned to Federated Learning participants. Within
+the federated setup, participants use neural ordinary differ-
+ential equations coupled with attention spatial-temporal graph
+convolution networks to collectively form the DFDG architec-
+ture. During training, participants contribute local updates to
+a global GNN model, with performance weightage reflecting
+their reliability. This dynamic weighting system influences each
+participant’s significance in subsequent communication rounds,
+promoting adaptive learning across the federated network. We
+group homogeneous participants based on their previous round
+performance and data distribution. Grouping contributes to the
+overall efficiency and effectiveness of federated learning systems,
+enhancing model generalization, reducing communication over-
+head, preserving privacy by aggregating updates from homo-
+geneous client groups, and allowing adaptability to local data
+characteristics. Extensive benchmark testing validates DFDG’s
+superiority in traffic forecasting, surpassing current state-of-the-
+art methods. Our method not only advances traffic forecasting
+but can be adapted for broader discourse on real-time dynamic
+graph applications
+
 # Datasets
 1. MetrLA : A traffic forecasting dataset based on Los Angeles
     Metropolitan traffic conditions. The dataset contains traffic
