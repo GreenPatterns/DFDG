@@ -7,10 +7,8 @@ and unsupervised learning for dynamic traffic forecasting in
 urban settings. Utilizing self-organizing map clustering, speed
 patterns are clustered at various time intervals, and resulting
 clusters are assigned to Federated Learning participants. Within
-the federated setup, participants use neural ordinary differ-
-ential equations coupled with attention spatial-temporal graph
-convolution networks to collectively form the DFDG architec-
-ture. During training, participants contribute local updates to
+the federated setup, participants use neural ordinary differential equations coupled with attention spatial-temporal graph
+convolution networks to collectively form the DFDG architecture. During training, participants contribute local updates to
 a global GNN model, with performance weightage reflecting
 their reliability. This dynamic weighting system influences each
 participant’s significance in subsequent communication rounds,
@@ -18,8 +16,7 @@ promoting adaptive learning across the federated network. We
 group homogeneous participants based on their previous round
 performance and data distribution. Grouping contributes to the
 overall efficiency and effectiveness of federated learning systems,
-enhancing model generalization, reducing communication over-
-head, preserving privacy by aggregating updates from homo-
+enhancing model generalization, reducing communication overhead, preserving privacy by aggregating updates from homo-
 geneous client groups, and allowing adaptability to local data
 characteristics. Extensive benchmark testing validates DFDG’s
 superiority in traffic forecasting, surpassing current state-of-the-
